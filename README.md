@@ -1,7 +1,8 @@
-![All Contributors](https://img.shields.io/badge/Contributors-3-green.svg?style=square) 
+![All Contributors](https://img.shields.io/badge/Contributors-2-green.svg?style=square) 
 [![All Contributors](https://img.shields.io/badge/Technologies-4-orange.svg?style=square)]()
 
 
+<a href="https://github.com/DavidKumar45" target="_blank"><img src="https://img.shields.io/badge/GitHub-DavidKumar45-lightblue?style=for-the-badge&logo=github" alt="GitHub" width='30%' /></a>
 <a href="https://github.com/Melanin18" target="_blank"><img src="https://img.shields.io/badge/GitHub-Melanin18-lightblue?style=for-the-badge&logo=github" alt="GitHub" width='30%' /></a>
 
 <p align="center">
