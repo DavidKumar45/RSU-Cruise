@@ -1,24 +1,23 @@
 ![All Contributors](https://img.shields.io/badge/Contributors-3-green.svg?style=square) 
 [![All Contributors](https://img.shields.io/badge/Technologies-4-orange.svg?style=square)]()
 
-<a href="https://github.com/varchasv8" target="_blank"><img src="https://img.shields.io/badge/GitHub-varchasv8-green?style=for-the-badge&logo=github" alt="GitHub" width='30%'/></a>
-<a href="https://github.com/MandlaGowtham" target="_blank"><img src="https://img.shields.io/badge/GitHub-MandlaGowtham-orange?style=for-the-badge&logo=github" alt="GitHub" width='30%' /></a>
-<a href="https://github.com/Jithendra71" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jithendra71-lightblue?style=for-the-badge&logo=github" alt="GitHub" width='30%' /></a>
+
+<a href="https://github.com/Melanin18" target="_blank"><img src="https://img.shields.io/badge/GitHub-Melanin18-lightblue?style=for-the-badge&logo=github" alt="GitHub" width='30%' /></a>
 
 <p align="center">
   <img src="public\img\UNQ.png" width="100%" align="center"/>
 </p>
 
-# UNQ-website
+# RSU-Cruise
 
->**UNQ** is a simple real-world social media web application designed to allow users to **share posts/tweets, follow others on UNQ, and view their latest posts and also chat with the followers.**
+>**RSU-CRUISE** is a simple institutional social media web application designed to allow students to **share posts/tweets, follow others on RSU, and view their latest posts and also chat with the followers.**
 
 
 ## Installation
 
 - ### Clone Repository by using the following command
     ```
-    git clone https://github.com/Jithendra71/UNQ-website.git
+    git clone https://github.com/DavidKumar45/RSU-Cruise.git
     ```
 - Download and Install Node JS and Mongo DB
 
