@@ -1,1 +1,0 @@
-Rivers State University
